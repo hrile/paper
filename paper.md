@@ -22,3 +22,8 @@ away from the source region.
 
 We compared our measurements of particle ageing with a model simulation.
 The model is detrailed in Smith et al 2002.
+
+# Results
+
+The simulations indicate that coagulation is the dominant growth 
+mechanism for these particles.
