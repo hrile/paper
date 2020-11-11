@@ -1,7 +1,8 @@
 # Title 
-Aging of biomass burning aerosols over West Africa
+Simulations of biomass burning aerosols over West Africa
 
 # Author
+Gerard Capes
 Heather Riley
 
 # Introduction
